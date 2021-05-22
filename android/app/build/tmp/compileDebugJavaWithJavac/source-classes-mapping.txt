@@ -1,0 +1,14 @@
+com/multi_language/MainActivity.java
+ com.multi_language.MainActivity
+com/multi_language/BuildConfig.java
+ com.multi_language.BuildConfig
+com/multi_language/MainApplication.java
+ com.multi_language.MainApplication
+ com.multi_language.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/multi_language/ReactNativeFlipper.java
+ com.multi_language.ReactNativeFlipper
+ com.multi_language.ReactNativeFlipper$1
+ com.multi_language.ReactNativeFlipper$2
+ com.multi_language.ReactNativeFlipper$2$1
